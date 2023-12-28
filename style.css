@@ -111,7 +111,7 @@ li:last-child {
 
 @media (min-width: 860px) {
   body {
-    padding: 20rem 5rem;
+    padding: 18rem 5rem;
 
     display: flex;
     flex-direction: column;
