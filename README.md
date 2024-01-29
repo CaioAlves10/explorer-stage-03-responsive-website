@@ -1,1 +1,1 @@
-# explore-stage-03-responsive-website
+# explorer-stage-03-responsive-website
